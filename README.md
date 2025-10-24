@@ -1,4 +1,4 @@
-# Sam (samberr23) — Aspiring SOC Analyst
+# Samantha — Aspiring SOC Analyst
 
 Hi. I'm Sam. I'm learning blue-team / SOC workflows through hands-on labs (TryHackMe), practicing Splunk and log analysis, and documenting investigations in short, reproducible writeups.
 
